@@ -1,8 +1,6 @@
 #ifndef __SNAPI_MQ_H__
 #define __SNAPI_MQ_H__
 
-#include <infiniband/verbs.h>
-
 /**
   * @defgroup SNAPI_DT Library data-structures
   * @{
